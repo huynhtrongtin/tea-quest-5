@@ -1,0 +1,16 @@
+{
+  "name": "@tinhuynh13/tea-quest-5",
+  "version": "1.0.2",
+  "description": "Quest for tea.xyz 5",
+  "main": "index.js",
+  "author": "@tinhuynh13",
+  "repository": "https://github.com/huynhtrongtin/tea-quest-5",
+  "license": "ISC",
+  "dependencies": {
+    "@tinhuynh13/tea-quest-3": "^1.0.0",
+    "@tinhuynh13/tea-quest-4": "^1.0.2",
+    "@tinhuynh13/tea-quest-de": "^2.2.0",
+    "@tinhuynh13/tea-xyz-quest": "^3.0.0",
+    "package-lock.json": "^1.0.0"
+  }
+}
